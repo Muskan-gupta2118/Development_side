@@ -1,5 +1,5 @@
 let btn = document.querySelector("button");
- console.dir(btn);
+ console.dir(btn) ;
 
  
 
